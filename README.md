@@ -21,6 +21,12 @@ age-tailored advice, a gym membership cost calculator with stacking
 discounts, and a League of Legends-themed spin on the Treasure Island 
 project.
 
+**Day 4** - importing modules, writing and importing my own module 
+file, lists
+Built Rock, Paper, Scissors, and a password generator that splits logic 
+across two files - a main script and a custom module for checking 
+password strength.
+
 ## Why this repo exists
 Mostly for myself, to keep track of progress and look back on later. 
 Also figured it's worth having something on GitHub while I learn instead 
