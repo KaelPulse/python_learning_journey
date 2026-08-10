@@ -27,6 +27,10 @@ Built Rock, Paper, Scissors, and a password generator that splits logic
 across two files - a main script and a custom module for checking 
 password strength.
 
+**Day 5** - for loops, range()
+Built a Gauss sum calculator and FizzBuzz 1-100. Caught a bug in one of 
+the lesson's own examples along the way.
+
 ## Why this repo exists
 Mostly for myself, to keep track of progress and look back on later. 
 Also figured it's worth having something on GitHub while I learn instead 
