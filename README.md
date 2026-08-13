@@ -31,6 +31,10 @@ password strength.
 Built a Gauss sum calculator and FizzBuzz 1-100. Caught a bug in one of 
 the lesson's own examples along the way.
 
+**Day 6** - functions, parameters, while loops
+Short session - practiced writing a function that takes a name as a 
+parameter instead of asking for its own input.
+
 ## Why this repo exists
 Mostly for myself, to keep track of progress and look back on later. 
 Also figured it's worth having something on GitHub while I learn instead 
