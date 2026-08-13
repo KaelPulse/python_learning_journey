@@ -28,8 +28,8 @@ across two files - a main script and a custom module for checking
 password strength.
 
 **Day 5** - for loops, range()
-Built a Gauss sum calculator and FizzBuzz 1-100. Caught a bug in one of 
-the lesson's own examples along the way.
+Built a Gauss sum calculator and FizzBuzz 1-100. Caught a bug in both the excercises.
+Not fully focused today, forgot to define variables that resulted in typerrors.
 
 **Day 6** - functions, parameters, while loops
 Short session - practiced writing a function that takes a name as a 
